@@ -13,7 +13,11 @@
 <hr/>
 
 <!--countries repo-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight)](https://github.com/nikodiaz/countries)
+<a href="https://github.com/nikodiaz/countries">
+  <img src='https://github.com/nikodiaz/Portfolio/raw/main/img/port1.png' width='400px'>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight" />
+</a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
