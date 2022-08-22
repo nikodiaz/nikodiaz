@@ -1,3 +1,5 @@
+<h2 align='center'>Hi there 👋, I'm Nicolás</h2>
+
 <div align='center'>
   <a href='https://www.linkedin.com/in/bnicolasdiaz/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue' alt='LinkedIn Profile'/>
@@ -10,30 +12,8 @@
 <h3 align='center'>My Projects 💻</h3>
 <hr/>
 
-<div>
-  <div align='left'>
-    <a href='https://www.linkedin.com/in/bnicolasdiaz/' target='_blank'>
-      <img src='https://github.com/nikodiaz/Portfolio/blob/main/img/port1.png'
-           alt='Countries Project Preview'
-           width='300px'/>
-      <div>
-        <a href='https://github.com/nikodiaz/countries'><strong>countries</strong>
-      </div>
-    </a>
-  </div>
-  
-  <div align='right'>
-    <a href='https://www.linkedin.com/in/bnicolasdiaz/' target='_blank'>
-      <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue' alt='LinkedIn Profile'/>
-    </a>
-  </div>
-  
-  <div align='center'>
-    <a href='https://www.linkedin.com/in/bnicolasdiaz/' target='_blank'>
-      <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue' alt='LinkedIn Profile'/>
-    </a>
-  </div>
-</div>
+<!--countries repo-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight)](https://github.com/nikodiaz/countries)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -60,12 +40,9 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodiaz&show_icons=true&locale=en&layout=compact" alt="nikodiaz" />
-</p>
+![nikodiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikodiaz&show_icons=true&theme=tokyonight)
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikodiaz&show_icons=true&locale=en" alt="nikodiaz" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikodiaz&layout=compact&theme=tokyonight)](https://github.com/nikodiaz/github-readme-stats)
+
 
 
