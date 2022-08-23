@@ -4,6 +4,9 @@
   <a href='https://www.linkedin.com/in/bnicolasdiaz/' target='_blank'>
     <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue' alt='LinkedIn Profile'/>
   </a>
+  <a href='https://www.nikodiaz56@gmail.com' target='_blank'>
+    <img src='https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoColor=white' alt='Gmail'/>
+  </a>
 </div>
 
 
