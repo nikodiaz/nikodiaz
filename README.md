@@ -17,7 +17,7 @@
 
 <!--countries repo-->
 
-<a align=left href="https://github.com/nikodiaz/countries">
+<a align='left' href="https://github.com/nikodiaz/countries">
   <img src='https://github.com/nikodiaz/Portfolio/raw/main/img/port1.png' width='400px'>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight" />
@@ -25,8 +25,8 @@
 
 <!--movies repo-->
 
-<a align=right href="https://github.com/nikodiaz/movie-app/tree/v_react">
-  <img src='https://drive.google.com/file/d/1gKIGTesSsPj-A-OKSrTN1xfDpm5-QbbG/view?usp=share_link' width='400px'>
+<a align='right' href="https://github.com/nikodiaz/movie-app/tree/v_react">
+  <img src='https://drive.google.com/file/d/1gKIGTesSsPj-A-OKSrTN1xfDpm5-QbbG/view' width='400px'>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight" />
 </a>
