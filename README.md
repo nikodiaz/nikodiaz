@@ -17,17 +17,15 @@
 
 <!--countries repo-->
 
-<a align='left' href="https://github.com/nikodiaz/countries">
+<a href="https://github.com/nikodiaz/countries">
   <img src='https://github.com/nikodiaz/portfolio/blob/develop/src/assets/project1.png' width='400px'>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight" />
 </a>
 
 <!--movies repo-->
 
-<a align='right' href="https://github.com/nikodiaz/movie-app/tree/develop">
+<a href="https://github.com/nikodiaz/movie-app/tree/develop">
   <img src='https://github.com/nikodiaz/portfolio/blob/develop/src/assets/project2.png' width='400px'>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight" />
 </a>
 
