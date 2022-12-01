@@ -15,25 +15,23 @@
 <h3 align='center'>My Projects 💻</h3>
 <hr/>
 
+<div align='center'>
 <!--countries repo-->
 
-<a align='left' href="https://github.com/nikodiaz/countries">
-  <img src='https://github.com/nikodiaz/portfolio/blob/develop/src/assets/project1.png' width='400px'>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight" />
-</a>
+  <a href="https://github.com/nikodiaz/countries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight" />
+  </a>
 
 <!--movies repo-->
 
-<a align='center' href="https://github.com/nikodiaz/movie-app/tree/develop">
-  <img src='https://github.com/nikodiaz/portfolio/blob/develop/src/assets/project2.png' width='400px'>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight" />
-</a>
+  <a href="https://github.com/nikodiaz/movie-app/tree/develop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight" />
+  </a>
+  
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
