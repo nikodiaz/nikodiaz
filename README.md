@@ -10,7 +10,7 @@
 </div>
 
 
-<h6 align='center'>Front End Developer from Argentina with knowledges in React, JavaScript, HTML/CSS, SCSS, Bootstrap.</h6>
+<h6 align='center'>Front End Developer from Argentina with knowledges in React/Redux, JavaScript, HTML/CSS, SCSS, Bootstrap.</h6>
 
 <h3 align='center'>My Projects 💻</h3>
 <hr/>
