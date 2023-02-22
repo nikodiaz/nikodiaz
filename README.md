@@ -1,62 +1,68 @@
-<h2 align='center'>Hi there 👋, I'm Nicolás</h2>
+<h1 align="center">Hi 👋, I'm Nico</h1>
+<h3 align="center">Front End Developer from Argentina with knowledges in HTML/CSS, SCSS, JavaScript, TypeScript, React and Redux.</h3>
 
-<div align='center'>
-  <a href='https://www.linkedin.com/in/bnicolasdiaz/' target='_blank'>
-    <img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue' alt='LinkedIn Profile'/>
-  </a>
-  <a href='https://www.nikodiaz56@gmail.com' target='_blank'>
-    <img src='https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red&logoColor=white' alt='Gmail'/>
-  </a>
-</div>
+- 🔭 I’m currently working on [trailers v0.2](https://github.com/nikodiaz/movie-app/tree/develop)
 
+- 🌱 I’m currently learning **TDD, Jest, Testing Library**
 
-<h6 align='center'>Front End Developer from Argentina with knowledges in React/Redux, JavaScript, HTML/CSS, SCSS, Bootstrap.</h6>
+- 📫 How to reach me **nikodiaz56@gmail.com**
 
-<h3 align='center'>My Projects 💻</h3>
-<hr/>
-
-<div align='center'>
-<!--countries repo-->
-
-  <a href="https://github.com/nikodiaz/countries">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight" />
-  </a>
-
-<!--movies repo-->
-
-  <a href="https://github.com/nikodiaz/movie-app/tree/develop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight" />
-  </a>
-  
-</div>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bnicolasdiaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bnicolasdiaz" height="30" width="40" /></a>
 </p>
 
-![nikodiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikodiaz&show_icons=true&theme=tokyonight)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikodiaz&layout=compact&theme=tokyonight)](https://github.com/nikodiaz/github-readme-stats)
+<h3>My favorites Projects</h3>
 
+<table>
+  <!--HEADER-->
+   <tr>
+    <th>
+     <a href='https://github.com/nikodiaz/movie-app'>
+      <img src='https://user-images.githubusercontent.com/20620395/218196761-a7488a60-1fcd-4dee-9003-66ea6277cdff.png' width='500px' />
+      </a>
+    </th>
+     <th>
+     <a href='https://github.com/nikodiaz/app-estudiantes'>
+      <img src='https://github.com/nikodiaz/app-estudiantes/raw/main/public/assets/images/appstudents.png' width='500px' />
+      </a>
+    </th>
+  </tr>
+  <!--BODY-->
+    <tr>
+      <td>
+        <a href='https://github.com/nikodiaz/movie-app'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight' width='500px' />
+    </a>
+      </td>
+      <td>
+        <a href='https://github.com/nikodiaz/app-estudiantes'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=tokyonight' width='500px' />
+    </a>
+      </td>
+    </tr>
+  <!--HEADER-->
+    <tr>
+      <td>
+        <a href='https://github.com/nikodiaz/countries'>
+         <img src='https://user-images.githubusercontent.com/20620395/220763409-c96bcafd-d8c6-4fa4-b30d-0909cadce3d6.png' width='500px' />
+    </a>
+      </td>
+    </tr>
+  <!--BODY-->
+  <tr>
+      <td>
+        <a href='https://github.com/nikodiaz/countries'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight' width='500px' />
+    </a>
+      </td>
+    </tr>
 
+ </table>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodiaz&count_private=true&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nikodiaz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikodiaz&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="nikodiaz" /></p>
