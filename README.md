@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">Front End Developer from Argentina with knowledges in HTML/CSS, SCSS, JavaScript, TypeScript, React and Redux.</h3>
+<h4>Hello! Welcome to my GitHub profile. I'm a front-end developer with a passion for creating beautiful and functional digital experiences. I have experience in developing user interfaces using technologies such as HTML, CSS, JavaScript, and particularly React and Redux.</h4>
+<h4>If you're looking for a passionate and committed front-end developer, please take a look at my projects on my GitHub profile. I'm excited to collaborate on future exciting and challenging projects!</h4>
 
 - 🔭 I’m currently working on [trailers v2](https://github.com/nikodiaz/movie-app/tree/develop)
 
