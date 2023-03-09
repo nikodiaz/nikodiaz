@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">Front End Developer from Argentina with knowledges in HTML/CSS, SCSS, JavaScript, TypeScript, React and Redux.</h3>
 
-- 🔭 I’m currently working on [trailers v0.2](https://github.com/nikodiaz/movie-app/tree/develop)
+- 🔭 I’m currently working on [trailers v2](https://github.com/nikodiaz/movie-app/tree/develop)
 
 - 🌱 I’m currently learning **TDD, Jest, Testing Library**
 
