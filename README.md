@@ -105,7 +105,3 @@
     </tr>
 
  </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikodiaz&count_private=true&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nikodiaz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikodiaz&count_private=true&show_icons=true&theme=tokyonight&locale=en" alt="nikodiaz" /></p>
