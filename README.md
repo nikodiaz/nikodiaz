@@ -52,12 +52,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/nikodiaz/nikodiaz/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3>My favorites Projects</h3>
 
 <table>
