@@ -52,7 +52,7 @@
   </a>
 </div>
 
-<h3>My favorites Projects</h3>
+<h3 align="center">My favorites Projects</h3>
 
 <table>
   <!--HEADER-->
