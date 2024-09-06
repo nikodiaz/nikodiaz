@@ -83,17 +83,27 @@
     </tr>
   <!--HEADER-->
     <tr>
-      <td>
+      <th>
         <a href='https://github.com/nikodiaz/countries'>
          <img src='https://user-images.githubusercontent.com/20620395/220763409-c96bcafd-d8c6-4fa4-b30d-0909cadce3d6.png' width='500px' />
-    </a>
-      </td>
+        </a>
+      </th>
+       <th>
+     <a href='https://github.com/nikodiaz/url-shortener-ui'>
+      <img src='https://private-user-images.githubusercontent.com/20620395/364559165-052869c2-30ba-4be8-8fd0-7974a7fed162.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2MzA1OTYsIm5iZiI6MTcyNTYzMDI5NiwicGF0aCI6Ii8yMDYyMDM5NS8zNjQ1NTkxNjUtMDUyODY5YzItMzBiYS00YmU4LThmZDAtNzk3NGE3ZmVkMTYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDEzNDQ1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1MWQ4MjQ0NWEwYzZiOWJiNjUxOWNkNGQ4YzYwNTZjZjM2MGU1NmRjMjkwOTZmZTllYWMxYTBkNDFhOWE4YmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J_kIm813VhAqZMHwetnO2XNIukhQGmV2SJFjs-gMQTc' width='500px' />
+      </a>
+    </th>
     </tr>
   <!--BODY-->
   <tr>
       <td>
         <a href='https://github.com/nikodiaz/countries'>
          <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight' width='500px' />
+    </a>
+      </td>
+    <td>
+        <a href='https://github.com/nikodiaz/countries'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=url-shortener-ui&theme=tokyonight' width='500px' />
     </a>
       </td>
     </tr>
