@@ -58,35 +58,9 @@
 <table>
   <!--HEADER-->
    <tr>
-    <th>
-     <a href='https://github.com/nikodiaz/movie-app'>
-      <img src='https://user-images.githubusercontent.com/20620395/218196761-a7488a60-1fcd-4dee-9003-66ea6277cdff.png' width='500px' />
-      </a>
-    </th>
-     <th>
-     <a href='https://github.com/nikodiaz/app-estudiantes'>
-      <img src='https://github.com/nikodiaz/app-estudiantes/raw/main/public/assets/images/appstudents.png' width='500px' />
-      </a>
-    </th>
-  </tr>
-  <!--BODY-->
-    <tr>
-      <td>
-        <a href='https://github.com/nikodiaz/movie-app'>
-         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight' width='500px' />
-    </a>
-      </td>
-      <td>
-        <a href='https://github.com/nikodiaz/app-estudiantes'>
-         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=tokyonight' width='500px' />
-    </a>
-      </td>
-    </tr>
-  <!--HEADER-->
-    <tr>
       <th>
-        <a href='https://github.com/nikodiaz/countries'>
-         <img src='https://user-images.githubusercontent.com/20620395/220763409-c96bcafd-d8c6-4fa4-b30d-0909cadce3d6.png' width='500px' />
+        <a href='https://github.com/nikodiaz/gruvbox_portfolio'>
+         <img src='https://private-user-images.githubusercontent.com/20620395/365195923-02226800-f7e8-4303-8ef0-e9774cbac9b6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2MzI3MjQsIm5iZiI6MTcyNTYzMjQyNCwicGF0aCI6Ii8yMDYyMDM5NS8zNjUxOTU5MjMtMDIyMjY4MDAtZjdlOC00MzAzLThlZjAtZTk3NzRjYmFjOWI2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDE0MjAyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExZGMwODBjZWY1NDY2OWQzMjk4M2Y2ZjlmNWUwODdiNGFhNTA0MmRiMzZiYzEwYzUxMTZmODk5M2JjNjQ0ZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oVf-TqQRtRqvfBdh6G86t_TgR9rQynGeRmTTQRVsqDA' width='500px' />
         </a>
       </th>
        <th>
@@ -96,15 +70,41 @@
     </th>
     </tr>
   <!--BODY-->
-  <tr>
+    <tr>
       <td>
-        <a href='https://github.com/nikodiaz/countries'>
-         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=countries&theme=tokyonight' width='500px' />
+        <a href='https://github.com/nikodiaz/gruvbox_portfolio'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=gruvbox_portfolio&theme=tokyonight' width='500px' />
     </a>
       </td>
     <td>
         <a href='https://github.com/nikodiaz/countries'>
          <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=url-shortener-ui&theme=tokyonight' width='500px' />
+    </a>
+      </td>
+    </tr>
+  <!--HEADER-->
+    <tr>
+     <th>
+     <a href='https://github.com/nikodiaz/app-estudiantes'>
+      <img src='https://github.com/nikodiaz/app-estudiantes/raw/main/public/assets/images/appstudents.png' width='500px' />
+      </a>
+    </th>
+    <th>
+     <a href='https://github.com/nikodiaz/movie-app'>
+      <img src='https://user-images.githubusercontent.com/20620395/218196761-a7488a60-1fcd-4dee-9003-66ea6277cdff.png' width='500px' />
+      </a>
+    </th>
+  </tr>
+  <!--BODY-->
+    <tr>
+      <td>
+        <a href='https://github.com/nikodiaz/app-estudiantes'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=tokyonight' width='500px' />
+    </a>
+      </td>
+      <td>
+        <a href='https://github.com/nikodiaz/movie-app'>
+         <img src='https://github-readme-stats.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight' width='500px' />
     </a>
       </td>
     </tr>
