@@ -44,38 +44,39 @@
     <tr>
       <td>
         <a href='https://github.com/nikodiaz/gruvbox_portfolio'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=gruvbox_portfolio&theme=tokyonight' width='500px' />
+         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=gruvbox_portfolio&theme=gruvbox&hide_border=true' width='500px' />
         </a>
       </td>
       <td>
         <a href='https://github.com/nikodiaz/url-shortener-ui'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=url-shortener-ui&theme=tokyonight' width='500px' />
+         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=url-shortener-ui&theme=gruvbox&hide_border=true' width='500px' />
         </a>
       </td>
     </tr>
   <!--HEADER-->
     <tr>
       <th>
+        <a href='https://github.com/nikodiaz/barapack_landing'>
+          <img src='https://private-user-images.githubusercontent.com/20620395/365277389-38b03832-d751-4d20-8753-26237dfc4b84.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2NTExODMsIm5iZiI6MTcyNTY1MDg4MywicGF0aCI6Ii8yMDYyMDM5NS8zNjUyNzczODktMzhiMDM4MzItZDc1MS00ZDIwLTg3NTMtMjYyMzdkZmM0Yjg0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDE5MjgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJhY2M1ZmM0NTFmM2I1ZTkyZjdmZWZhMDlkZDU0M2Y0OWZiYmY2NDI4N2I5MzM4NzE5MzRiMTc0YjUxZDhkMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4UHqfcFn59FGqJA6375E22jBVaPsn0-1Uhe2CIsLXFM' width='500px' />
+        </a>
+      </th>
+      <th>
         <a href='https://github.com/nikodiaz/app-estudiantes'>
           <img src='https://github.com/nikodiaz/app-estudiantes/raw/main/public/assets/images/appstudents.png' width='500px' />
         </a>
       </th>
-      <th>
-        <a href='https://github.com/nikodiaz/movie-app'>
-          <img src='https://user-images.githubusercontent.com/20620395/218196761-a7488a60-1fcd-4dee-9003-66ea6277cdff.png' width='500px' />
-        </a>
-      </th>
+      
   </tr>
   <!--BODY-->
     <tr>
       <td>
-        <a href='https://github.com/nikodiaz/app-estudiantes'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=tokyonight' width='500px' />
+        <a href='https://github.com/nikodiaz/barapack_landing'>
+         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=barapack_landing&theme=gruvbox&hide_border=true' width='500px' />
     </a>
       </td>
       <td>
-        <a href='https://github.com/nikodiaz/movie-app'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=movie-app&theme=tokyonight' width='500px' />
+        <a href='https://github.com/nikodiaz/app-estudiantes'>
+         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=gruvbox&hide_border=true' width='500px' />
     </a>
       </td>
     </tr>
