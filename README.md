@@ -31,12 +31,12 @@
    <tr>
       <th>
         <a href='https://github.com/nikodiaz/gruvbox_portfolio'>
-         <img src='https://private-user-images.githubusercontent.com/20620395/365195923-02226800-f7e8-4303-8ef0-e9774cbac9b6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2MzI3MjQsIm5iZiI6MTcyNTYzMjQyNCwicGF0aCI6Ii8yMDYyMDM5NS8zNjUxOTU5MjMtMDIyMjY4MDAtZjdlOC00MzAzLThlZjAtZTk3NzRjYmFjOWI2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDE0MjAyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExZGMwODBjZWY1NDY2OWQzMjk4M2Y2ZjlmNWUwODdiNGFhNTA0MmRiMzZiYzEwYzUxMTZmODk5M2JjNjQ0ZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oVf-TqQRtRqvfBdh6G86t_TgR9rQynGeRmTTQRVsqDA' width='500px' />
+         <img src='https://github.com/nikodiaz/gruvbox_portfolio/blob/main/public/screenshot.png' width='500px' />
         </a>
       </th>
        <th>
      <a href='https://github.com/nikodiaz/url-shortener-ui'>
-      <img src='https://private-user-images.githubusercontent.com/20620395/364559165-052869c2-30ba-4be8-8fd0-7974a7fed162.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2MzA1OTYsIm5iZiI6MTcyNTYzMDI5NiwicGF0aCI6Ii8yMDYyMDM5NS8zNjQ1NTkxNjUtMDUyODY5YzItMzBiYS00YmU4LThmZDAtNzk3NGE3ZmVkMTYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDEzNDQ1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1MWQ4MjQ0NWEwYzZiOWJiNjUxOWNkNGQ4YzYwNTZjZjM2MGU1NmRjMjkwOTZmZTllYWMxYTBkNDFhOWE4YmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.J_kIm813VhAqZMHwetnO2XNIukhQGmV2SJFjs-gMQTc' width='500px' />
+      <img src='https://github.com/nikodiaz/url-shortener-ui/blob/main/public/screenshot.png' width='500px' />
       </a>
     </th>
     </tr>
@@ -57,7 +57,7 @@
     <tr>
       <th>
         <a href='https://github.com/nikodiaz/barapack_landing'>
-          <img src='https://private-user-images.githubusercontent.com/20620395/365297455-061eabcf-f208-4946-9e98-3f22ea51efe1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU2NTQ4MzEsIm5iZiI6MTcyNTY1NDUzMSwicGF0aCI6Ii8yMDYyMDM5NS8zNjUyOTc0NTUtMDYxZWFiY2YtZjIwOC00OTQ2LTllOTgtM2YyMmVhNTFlZmUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA2VDIwMjg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3OGNiNTdkYThjNTI5ZDBkYTAzMjFhMzVlNTU1ZTYwMTQyZmQ3NWM0ZTM4NGM5OTQwNTRjMzM0YTk4ZjdmMzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vwiKp0w4Hd0r287-ufzb60I9Pmm2m-rB5QBI4KDZQ-0' width='500px' />
+          <img src='https://github.com/nikodiaz/barapack_landing/blob/main/public/screenshot.png' width='500px' />
         </a>
       </th>
       <th>
