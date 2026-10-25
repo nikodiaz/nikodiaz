@@ -1,7 +1,6 @@
 ![Cover](https://github.com/user-attachments/assets/9a25b658-dc6a-437c-9673-8439746bc1d0)
 
 <div align=center>
-  <img align=left src="https://nikodiaz-stats-github.vercel.app/api?username=nikodiaz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
   <div align=left>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=000" alt="CSS3" />
@@ -41,7 +40,7 @@
     </th>
     </tr>
   <!--BODY-->
-    <tr>
+    <!-- <tr>
       <td>
         <a href='https://github.com/nikodiaz/gruvbox_portfolio'>
          <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=gruvbox_portfolio&theme=gruvbox&hide_border=true' width='500px' />
@@ -52,7 +51,7 @@
          <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=url-shortener-ui&theme=gruvbox&hide_border=true' width='500px' />
         </a>
       </td>
-    </tr>
+    </tr> -->
   <!--HEADER-->
     <tr>
       <th>
@@ -68,7 +67,7 @@
       
   </tr>
   <!--BODY-->
-    <tr>
+    <!-- <tr>
       <td>
         <a href='https://github.com/nikodiaz/barapack_landing'>
          <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=barapack_landing&theme=gruvbox&hide_border=true' width='500px' />
@@ -79,6 +78,6 @@
          <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=gruvbox&hide_border=true' width='500px' />
     </a>
       </td>
-    </tr>
+    </tr> -->
 
  </table>
