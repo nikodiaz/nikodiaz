@@ -29,51 +29,11 @@
          <img src='https://github.com/nikodiaz/gruvbox_portfolio/blob/main/public/screenshot.png' width='500px' />
         </a>
       </th>
-       <th>
-     <a href='https://github.com/nikodiaz/url-shortener-ui'>
-      <img src='https://github.com/nikodiaz/url-shortener-ui/blob/main/public/screenshot.png' width='500px' />
-      </a>
-    </th>
-    </tr>
-  <!--BODY-->
-    <!-- <tr>
-      <td>
-        <a href='https://github.com/nikodiaz/gruvbox_portfolio'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=gruvbox_portfolio&theme=gruvbox&hide_border=true' width='500px' />
-        </a>
-      </td>
-      <td>
-        <a href='https://github.com/nikodiaz/url-shortener-ui'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=url-shortener-ui&theme=gruvbox&hide_border=true' width='500px' />
-        </a>
-      </td>
-    </tr> -->
-  <!--HEADER-->
-    <tr>
       <th>
         <a href='https://github.com/nikodiaz/barapack_landing'>
           <img src='https://github.com/nikodiaz/barapack_landing/blob/main/public/screenshot.png' width='500px' />
         </a>
       </th>
-      <th>
-        <a href='https://github.com/nikodiaz/app-estudiantes'>
-          <img src='https://github.com/nikodiaz/app-estudiantes/raw/main/public/assets/images/appstudents.png' width='500px' />
-        </a>
-      </th>
-      
-  </tr>
-  <!--BODY-->
-    <!-- <tr>
-      <td>
-        <a href='https://github.com/nikodiaz/barapack_landing'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=barapack_landing&theme=gruvbox&hide_border=true' width='500px' />
-    </a>
-      </td>
-      <td>
-        <a href='https://github.com/nikodiaz/app-estudiantes'>
-         <img src='https://nikodiaz-stats-github.vercel.app/api/pin/?username=nikodiaz&repo=app-estudiantes&theme=gruvbox&hide_border=true' width='500px' />
-    </a>
-      </td>
-    </tr> -->
+    </tr>
 
  </table>
