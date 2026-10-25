@@ -4,12 +4,8 @@
   <div align=left>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=000" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=000" alt="CSS3" />
-    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=000" alt="SASS" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=000" alt="REACT" />
     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=000" alt="TYPESCRIPT" />
-    <img src="https://img.shields.io/badge/NEXT-fff?style=for-the-badge&logo=next.js&logoColor=000" alt="NEXT" />
-    <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=000" alt="TAILWINDCSS" />
     <img src="https://img.shields.io/badge/NODE-5FA04E?style=for-the-badge&logo=node.js&logoColor=000" alt="NODE" />
     <img src="https://img.shields.io/badge/EXPRESS-fff?style=for-the-badge&logo=express&logoColor=000" alt="EXPRESS" />
     <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=000" alt="MONGODB" />
