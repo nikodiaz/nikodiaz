@@ -60,7 +60,7 @@ Una app para registrar entrenamientos y seguir el progreso, porque "creo que lev
 <p align="center"><sub>Racha de contribuciones: más constante que mi jab. Por ahora.</sub></p>
 ---
  
-### 📫 ¿Sparring, proyecto o charla sobre qué disco de Iron Maiden es el mejor?
+### 📫 ¿Sparring, proyecto o charla sobre qué canción de Iron Maiden es mejor?
  
 <a href="https://www.linkedin.com/in/bnicolasdiaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
  
