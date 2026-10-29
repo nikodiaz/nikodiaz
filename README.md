@@ -58,12 +58,13 @@ Una app para registrar entrenamientos y seguir el progreso, porque "creo que lev
   <img src="https://streak-stats.demolab.com?user=nikodiaz&hide_border=true&background=0D0D0D&ring=C0392B&fire=C0392B&currStreakLabel=C0392B&stroke=333333&currStreakNum=E0E0E0&sideNums=E0E0E0&sideLabels=E0E0E0&dates=888888" alt="Racha de contribuciones" />
 </p>
 <p align="center"><sub>Racha de contribuciones: más constante que mi jab. Por ahora.</sub></p>
+
 ---
  
 ### 📫 ¿Sparring, proyecto o charla sobre qué canción de Iron Maiden es mejor?
  
 <a href="https://www.linkedin.com/in/bnicolasdiaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- 
+
 ---
  
 <p align="center"><b>🤘 Up the Irons! 🤘</b></p>
